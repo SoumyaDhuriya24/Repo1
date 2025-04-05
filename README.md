@@ -1,1 +1,1 @@
-this is the first repo of this acc
+this is the first repo of this account which i created to know about the github
